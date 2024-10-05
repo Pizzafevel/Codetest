@@ -1,0 +1,3 @@
+model\VipUser.class
+model\UserBean.class
+com\spring\controller\TestController.class
